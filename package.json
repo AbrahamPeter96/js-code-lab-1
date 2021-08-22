@@ -14,6 +14,7 @@
     "@nestjs/mongoose": "^8.0.0",
     "@truffle/hdwallet-provider": "^1.4.3",
     "axios": "^0.21.1",
+    "bignumber.js": "^9.0.1",
     "cron": "^1.8.2",
     "eth-multicall": "^1.4.0",
     "ethereum-multicall": "^2.7.1",
